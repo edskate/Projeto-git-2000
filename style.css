@@ -4,3 +4,14 @@ h1 {
   font-size: 40px;
   margin: 50px;
 }
+table {
+  border: 2px solid;
+  width: 300px;
+  text-align: center;
+}
+td {
+  border: 3px solid;
+}
+th{
+  border: 3px solid;
+}
